@@ -1,4 +1,4 @@
-# پروژه ی درس برنامه نویسی پیشرفته (Advanced Programming - First Project)
+# Advanced Programming - First Project
 
 استاد درس : دکتر رمضانی 
 
